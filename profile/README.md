@@ -1,5 +1,10 @@
 # 👨‍🏫 Welcome to Code With Sir JM
 
+## 🎥 Welcome Video
+[Watch the Intro Video](https://www.youtube.com/watch?v=BklqkNxxY-A)
+
+A 3-minute spark to start our journey this school year. Watch it, feel it, and let’s begin.
+
 This is the official GitHub organization for all programming classes under Sir JM Acera.
 
 Here, you'll find:
