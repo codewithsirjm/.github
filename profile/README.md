@@ -22,6 +22,9 @@ All enrolled students will:
 - Practice AI-aided coding with Cursor AI
 - Deep dive into the semester's subject (Web Tech, HCI, SysArch, etc.)
 
+Notion pages:
+- PF 101 (Object-Oriented Programming) [link](https://www.notion.so/PF101-Object-Oriented-Programming-S-Y-2025-2458fcaa99138040b33df11a678ae513)
+
 ## 📩 Need Help?
 
 Questions? Ask via the official Facebook page:  
